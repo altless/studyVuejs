@@ -17,6 +17,7 @@ var app = new Vue({
   methods: {
     // ES6 문법
     clickBtn() {
+      
       console.log("hi");
     },
     // ES5 문법 - 위 ES6 문법과 동일한 코드
